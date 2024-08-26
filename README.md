@@ -7,6 +7,7 @@
 *NeurIPS 2023* OpenMask3D: Open-Vocabulary 3D Instance Segmentation  
 *ECCV 2024* Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models  
 *ECCV 2024* Segment3D: Learning Fine-Grained Class-Agnostic 3D Segmentation without Manual Labels  
+[list](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation)
 
 ## [Scene Graph]()
 *CVPR 2024* Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships  
